@@ -80,13 +80,12 @@ Skips unreadable or unsupported files with exception handling.
 Designed to be extensible if you want to add more file types.
 
 📂 File Structure
-bash
-Copy
-Edit
+```bash
 .
 ├── app.py              # Main scanner script
 ├── README.md           # Project documentation
 ├── requirements.txt    # Python dependencies (optional)
+```
 
 👤 Author
 Jayesh Bansal
