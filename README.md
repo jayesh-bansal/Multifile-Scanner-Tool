@@ -19,5 +19,5 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/filescanner.git
+git clone https://github.com/jayesh-bansal/Multifile-scanner-tool.git
 cd filescanner
